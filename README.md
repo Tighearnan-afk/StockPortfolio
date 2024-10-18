@@ -3,11 +3,6 @@
 Please Note that the original repo, managed by a lecturer, was lost. This new repo is an upload of a local version I had. All work was done equally between all members.
 This is the online repository for the Commercial Programming 1 - Team Assignment Assignment 2 - 2023.
 
-### Product owners
-<!--- insert the GitHub handle of the product owner(s) --->
-<!--- You may want to rotate product owners each week to share the responsability and workload --->
-+ DylanQuest
-
 ### Team
 <!--- Insert team members github handles only! --->
 <!--- DocMilo --->
