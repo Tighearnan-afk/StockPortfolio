@@ -1,7 +1,15 @@
-## Preamble
+## Preface
+This is a fork of a reupload made by teammate DylanQuest meant for display purposes. We no longer have access to the original repo due to it being deleted.
+All members of our team contributed equally to the success of the project.
 
-Please Note that the original repo, managed by a lecturer, was lost. This new repo is an upload of a local version I had. All work was done equally between all members.
+## Preamble
 This is the online repository for the Commercial Programming 1 - Team Assignment Assignment 2 - 2023.
+
+
+### Product owners
+<!--- insert the GitHub handle of the product owner(s) --->
+<!--- You may want to rotate product owners each week to share the responsability and workload --->
++ DylanQuest
 
 ### Team
 <!--- Insert team members github handles only! --->
